@@ -2,4 +2,7 @@
 A collection of jars are supplied mainly for some useful functions, not including source files.
 
 .charutil.jar
-tools for changing character code of  each character only for Big5
+CharUtil class for getting Big5 code from string, and vice versa.
+
+.unicode-util.jar
+UnicodeUtil class for encoding UTF-8 string to code, and vice versa.
