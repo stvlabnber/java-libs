@@ -35,6 +35,7 @@ String decryptedText = AesHelper.decrypt(encryptedText);
 
 ### 3.使用 time4j 實作國曆與農曆日期互轉
 > 專案使用前需再引用 tim4j 相關 jar 檔
+
 LogHelper.v(TAG, "轉成國曆: " +CDateHelper.getGregorianDateString("2023", "2", "15"));
 
 LogHelper.v(TAG, "轉成農曆: " + CDateHelper.getChineseDateString(2023, 4, 5));//農曆潤2月
