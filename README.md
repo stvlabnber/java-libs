@@ -23,6 +23,7 @@ String utf8Code = UnicodeHelper.stringToUtf8(utf8Char);
 
 ### 2.AES256 加解密
 AesHelper.setSecKey("1234");
+
 //AesHelper.setKeyLength(KeyLength.KEY128);
 
 String plainText="hello";	
