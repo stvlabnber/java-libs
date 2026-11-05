@@ -10,7 +10,7 @@
 
 ## 使用說明:
 
-> 專案使用前需引用 jcore-1.6.jar, jcore-enc-1.6.jar
+> 專案使用前需引用 jcore-obf-1.6.jar, jcore-char-obf-1.6.jar
 
 ### 1.Big5, UTF-8 字碼與字元轉換(含難字)
 //big5, utf-8 轉碼
